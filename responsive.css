@@ -1,0 +1,102 @@
+/* For Tablets */
+@media all and (max-width: 1115px) {
+ 
+  
+  .top-wrapper {
+    padding: 220px 0px 50px 0px;
+
+
+
+    
+  }  
+  .btn{
+    text-align:center;
+    float:none;
+   
+    display:inline-block;
+  }
+
+
+  .message{
+    
+    text-align:center;
+    
+  }
+
+  .benefit{
+    width:100%;
+    padding-bottom:40px;
+  }
+
+  .extra h1{
+    font-size:25px;
+  }
+  .extra h2{
+    font-size:20px;
+  }
+.top-part img{
+  
+  margin-left:0px;
+ float:none;
+ left:0;
+  height:400px;
+  box-shadow: 5px 5px slategray;
+
+}
+
+
+
+}
+
+/* For Smartphones */
+@media all and (max-width: 875px) {
+  .top-wrapper {
+    padding: 160px 0px 50px 0px;
+    text-align: center;
+    
+  }  
+  .extra h1{
+    font-size:25px;
+  }
+  .extra h2{
+    font-size:20px;
+  }
+.btn-wrapper{
+  text-align: center;
+  
+}
+.menu-icon{
+  display: inline-block;
+}
+
+.btn{
+  display:inline-block;
+}
+  .header-right{
+    display:none;
+  }
+  .top-part{
+    width: 100%;
+    top:0px;
+    position:relative;
+    left:0px;
+    text-align:center;
+  }
+  
+  .top-part h1{
+    font-size:35px;
+
+  }
+  .top-part img{
+  
+   text-align: center;
+   height: 320px;
+    top:-30px;
+  
+    box-shadow: 5px 5px slategray;
+  }
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+
+
+}
